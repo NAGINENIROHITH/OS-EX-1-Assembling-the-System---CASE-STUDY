@@ -23,13 +23,14 @@ A CPU Socket Uses A Series Of Pins To Connect A CPU Processor To The Pc’s Moth
 
 ## STEP 5: Heat sink and fan assembly 
 A Heat Sink And Fan (HSF) Is An Active Cooling Solution Used To Cool Down Integrated Circuits In Computer Systems, Commonly The Central Processing Unit
-![image](https://github.com/NAGINENIROHITH/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118344049/dfb593bc-6982-474c-8637-984148581c72)
+
+![image](https://github.com/NAGINENIROHITH/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118344049/2ec004c1-bfac-40df-98eb-297686248abf)
 
 ## STEP 6: Installation of RAM
 To Install The RAM First On The Motherboard And Then Fix The Motherboard In The Case. To Install RAM, First Ensure Its Compatibility With The Motherboard..
 ![image](https://github.com/NAGINENIROHITH/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118344049/720e187b-f735-4340-8866-8eaf009e7e5f)
 
-## STEP 7: : Install motherboard 
+## STEP 7: Install motherboard 
 After Preparing The Motherboard, You Can Install In The Computer Case.
 ![image](https://github.com/NAGINENIROHITH/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118344049/d45247c2-2ac7-47d0-9f88-fbdeea302621)
 
@@ -48,18 +49,22 @@ The Advanced Technology Extended (ATX) Main Power Connector Will Have Either 20 
 ## STEP 11: Connect external cables to the computer
 Connecting Monitor :The VGA Cable Is Used To Connect To Monitor.
 ![image](https://github.com/NAGINENIROHITH/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118344049/eec3ff6d-a417-4ed4-8b70-9c139d75e285)
-# Connecting Keyboard:
+
+## Connecting Keyboard:
 If It Uses A USB Connector, Plug It Into Any Of The USB Ports On The Back Of The Computer.
 ![image](https://github.com/NAGINENIROHITH/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118344049/79691cae-278b-4e01-ae60-77f4adad5a25)
-# Connecting Headphones Or Speakers: 
+
+## Connecting Headphones Or Speakers: 
 And Microphone:Connect The External Speakers Or Headphones, To Computer’s Audio Port (Either On The Front Or Back Of The Computer Case).
 ![image](https://github.com/NAGINENIROHITH/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118344049/157690c9-2528-4abe-a8cf-4c5d10c8586f)
-# Connect The Computer To A Power Supply:
+
+## Connect The Computer To A Power Supply:
 Power Supply Cable Connect Into The Back Of The Computer Case..
 ![image](https://github.com/NAGINENIROHITH/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118344049/65317cb8-2795-4f50-bee2-d27f7a1a4d49)
 
 ## STEP 12: Starting the computer 
 Always Remember That The First Step Is To Push Power Button Of The CPU Than The Monitor’s. An Operating System Or System Software Like Window Or Linux Will Start Loading, Now Your Computer Is Ready To Use.
+
 ![image](https://github.com/NAGINENIROHITH/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118344049/7fbbc8a3-dae6-4f8b-add3-e3893ba7e210)
 
 ## PROCEDURE:
